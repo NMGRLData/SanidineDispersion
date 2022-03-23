@@ -104,12 +104,63 @@
         "value": 1.0013530008973655
     },
     "CDD": {
-        "error": 0.0008718,
-        "fit": "mass_spec_reduced",
-        "references": "",
-        "reviewed": false,
-        "standard_ratio": null,
-        "value": 1.006287
+        "error": 0.0007523718039664049,
+        "fit": "Weighted Mean",
+        "references": [
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-138",
+                "uuid": "d72d9f80-5461-45eb-85e3-1d8eff3ad06d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-139",
+                "uuid": "1b49d555-438b-4cdd-a34e-76ba4eacb07e"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-140",
+                "uuid": "8c79030f-3ab3-45b6-8602-84d69061feed"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-141",
+                "uuid": "c9ac3159-e2ad-4873-8bb7-6cbfd573b37d"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-142",
+                "uuid": "ab1fd16e-a9d1-448f-8dc4-39a9c8105909"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-143",
+                "uuid": "c94fc518-2e3a-48bb-ae27-b884957f922b"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-144",
+                "uuid": "503ce4fa-d1e3-48fd-a34e-73ba3827b110"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-145",
+                "uuid": "4a254e56-31fd-4d3a-8994-29bd37a66700"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-146",
+                "uuid": "56655618-345d-420e-9f37-fa5b4edd5645"
+            },
+            {
+                "exclude": "ok",
+                "record_id": "a-03-J-147",
+                "uuid": "40e0521b-9d99-419b-bb18-bec58cf2fe19"
+            }
+        ],
+        "reviewed": true,
+        "standard_ratio": 295.5,
+        "value": 1.0063751989960106
     },
     "H1": {
         "error": 0.0,
