@@ -1,27 +1,22 @@
 {
     "AX": {
-        "error": 0.006612271739254976,
+        "error": 0.009620853380868157,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Average",
-        "fn": 41,
+        "fit": "average",
+        "fn": 45,
         "include_baseline_error": false,
         "n": 45,
-        "outlier_excluded": [
-            27,
-            25,
-            2,
-            11
-        ],
+        "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.009020390119630753
+        "value": 0.00815030650442673
     },
     "CDD": {
         "error": 2.8239916721559833e-05,
@@ -33,7 +28,7 @@
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Average",
+        "fit": "average",
         "fn": 45,
         "include_baseline_error": false,
         "n": 45,
@@ -43,70 +38,61 @@
         "value": 0.00022156422427441511
     },
     "H1": {
-        "error": 0.0059675114463398175,
+        "error": 0.006774980815096974,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
-            "use_iqr_filtering": false,
-            "use_standard_deviation_filtering": false
-        },
-        "fit": "Average",
-        "fn": 42,
-        "include_baseline_error": false,
-        "n": 45,
-        "outlier_excluded": [
-            24,
-            43,
-            37
-        ],
-        "reviewed": true,
-        "user_excluded": [],
-        "value": 0.06337646048493861
-    },
-    "H2": {
-        "error": 0.038949936628341675,
-        "error_type": null,
-        "filter_outliers_dict": {
-            "filter_outliers": true,
-            "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
         "fit": "average",
-        "fn": 0,
+        "fn": 45,
         "include_baseline_error": false,
-        "n": 0,
-        "outlier_excluded": null,
-        "reviewed": false,
-        "user_excluded": null,
-        "value": -0.2889294237295699
+        "n": 45,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.06608730289153755
     },
-    "L1": {
-        "error": 0.002835550440125119,
+    "H2": {
+        "error": 0.04214807879230828,
         "error_type": "SEM",
         "filter_outliers_dict": {
             "filter_outliers": true,
             "iterations": 1,
-            "std_devs": 2,
+            "std_devs": 3,
             "use_iqr_filtering": false,
             "use_standard_deviation_filtering": false
         },
-        "fit": "Average",
-        "fn": 41,
+        "fit": "average",
+        "fn": 45,
         "include_baseline_error": false,
         "n": 45,
-        "outlier_excluded": [
-            26,
-            3,
-            36,
-            39
-        ],
+        "outlier_excluded": [],
         "reviewed": true,
         "user_excluded": [],
-        "value": 0.04350868329723797
+        "value": -0.2898100888977448
+    },
+    "L1": {
+        "error": 0.0037275586269405517,
+        "error_type": "SEM",
+        "filter_outliers_dict": {
+            "filter_outliers": true,
+            "iterations": 1,
+            "std_devs": 3,
+            "use_iqr_filtering": false,
+            "use_standard_deviation_filtering": false
+        },
+        "fit": "average",
+        "fn": 45,
+        "include_baseline_error": false,
+        "n": 45,
+        "outlier_excluded": [],
+        "reviewed": true,
+        "user_excluded": [],
+        "value": 0.04376713417263495
     },
     "L2": {
         "error": 0.004646039341426036,
